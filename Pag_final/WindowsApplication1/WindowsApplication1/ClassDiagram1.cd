@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WindowsApplication1.Hard">
+    <Position X="6.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAIBQIMwKhDgAKJBACwJmjCYQpIAKggAMe0glgCIRE=</HashCode>
+      <FileName>Hard.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.Start">
+    <Position X="2.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAAAAAAACABBgCAAAAYACAAAAAAgCABAA=</HashCode>
+      <FileName>Start.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.Medium">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAiIBQIMhygDwAKJAECAICCCYQJoAKAgAUW0gnACoRE=</HashCode>
+      <FileName>Medium.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.Easy">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAgABQIEECADkACIAACAIACKYcJJAoAkSEW0ABAAIYE=</HashCode>
+      <FileName>Easy.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.Highscore">
+    <Position X="8.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAACCAAAAAIoDCAKQgCgACASgAAACIAQAEQAAA=</HashCode>
+      <FileName>Highscore.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WindowsApplication1.SplashScreen1">
+    <Position X="0.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAgAAAABACAAAAAAAACAEAACAAAACAAAAgAAAAAAAAA=</HashCode>
+      <FileName>SplashScreen1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="WindowsApplication1.Module1">
+    <Position X="0.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAgAARAAAAAAAAgAAAAAAAAAAAAAAAAAAAEAAQ=</HashCode>
+      <FileName>Module1.vb</FileName>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
